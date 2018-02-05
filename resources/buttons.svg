@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg15433"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="buttons.svg">
+  <defs
+     id="defs15435" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="-65.301594"
+     inkscape:cy="667.13158"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="998"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata15438">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#0062c2;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect15981"
+       width="271.73105"
+       height="59.598999"
+       x="65.659912"
+       y="43.21981"
+       inkscape:export-xdpi="46.030582"
+       inkscape:export-ydpi="46.030582"
+       inkscape:export-filename="/home/yann/ownCloud/PySDL2-0.9.4/examples/resources/buttonBySystem.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.26874924px;line-height:89.99999762%;font-family:Audiowide;-inkscape-font-specification:'Audiowide, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="201.201"
+       y="82.506454"
+       id="text15983"
+       sodipodi:linespacing="89.999998%"
+       inkscape:export-xdpi="33.604443"
+       inkscape:export-ydpi="33.604443"><tspan
+         sodipodi:role="line"
+         id="tspan15985"
+         x="201.201"
+         y="82.506454">By System</tspan></text>
+    <rect
+       inkscape:export-ydpi="46.030582"
+       inkscape:export-xdpi="46.030582"
+       y="143.21982"
+       x="65.659912"
+       height="59.598999"
+       width="271.73105"
+       id="rect15987"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#0062c2;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       inkscape:export-filename="/home/yann/ownCloud/PySDL2-0.9.4/examples/resources/buttonByType.png" />
+    <text
+       inkscape:export-ydpi="33.604443"
+       inkscape:export-xdpi="33.604443"
+       sodipodi:linespacing="89.999998%"
+       id="text15989"
+       y="182.50644"
+       x="201.201"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.26874924px;line-height:89.99999762%;font-family:Audiowide;-inkscape-font-specification:'Audiowide, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="182.50644"
+         x="201.201"
+         id="tspan15991"
+         sodipodi:role="line">By Type</tspan></text>
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#00a901;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect15993"
+       width="271.73105"
+       height="59.598999"
+       x="65.659912"
+       y="523.21985"
+       inkscape:export-xdpi="46.030582"
+       inkscape:export-ydpi="46.030582"
+       inkscape:export-filename="/home/yann/ownCloud/PySDL2-0.9.4/examples/resources/buttonFavorites.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.26874924px;line-height:89.99999762%;font-family:Audiowide;-inkscape-font-specification:'Audiowide, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="201.6434"
+       y="568.13977"
+       id="text15995"
+       sodipodi:linespacing="89.999998%"
+       inkscape:export-xdpi="33.604443"
+       inkscape:export-ydpi="33.604443"><tspan
+         sodipodi:role="line"
+         id="tspan15997"
+         x="201.6434"
+         y="568.13977">Favorites</tspan></text>
+    <rect
+       inkscape:export-ydpi="46.030582"
+       inkscape:export-xdpi="46.030582"
+       y="243.21982"
+       x="65.659912"
+       height="59.598999"
+       width="271.73105"
+       id="rect15999"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#0062c2;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       inkscape:export-filename="/home/yann/ownCloud/PySDL2-0.9.4/examples/resources/buttonAllGames.png" />
+    <text
+       inkscape:export-ydpi="33.604443"
+       inkscape:export-xdpi="33.604443"
+       sodipodi:linespacing="89.999998%"
+       id="text16001"
+       y="288.13977"
+       x="200.90607"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.26874924px;line-height:89.99999762%;font-family:Audiowide;-inkscape-font-specification:'Audiowide, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="288.13977"
+         x="200.90607"
+         id="tspan16003"
+         sodipodi:role="line">All Games</tspan></text>
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#fe5900;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect16005"
+       width="271.73105"
+       height="59.598999"
+       x="65.659912"
+       y="323.21982"
+       inkscape:export-xdpi="46.030582"
+       inkscape:export-ydpi="46.030582"
+       inkscape:export-filename="/home/yann/ownCloud/PySDL2-0.9.4/examples/resources/buttonSystemToUpload.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.41923332px;line-height:89.99999762%;font-family:Audiowide;-inkscape-font-specification:'Audiowide, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="201.54077"
+       y="347.28775"
+       id="text16007"
+       sodipodi:linespacing="89.999998%"
+       inkscape:export-xdpi="33.604443"
+       inkscape:export-ydpi="33.604443"><tspan
+         sodipodi:role="line"
+         id="tspan16009"
+         x="201.54077"
+         y="347.28775">System to</tspan><tspan
+         sodipodi:role="line"
+         x="206.66481"
+         y="375.56506"
+         id="tspan16011">Upload </tspan></text>
+    <rect
+       inkscape:export-ydpi="46.030582"
+       inkscape:export-xdpi="46.030582"
+       y="403.21982"
+       x="65.659912"
+       height="59.598999"
+       width="271.73105"
+       id="rect16013"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#fe5900;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       inkscape:export-filename="/home/yann/ownCloud/PySDL2-0.9.4/examples/resources/buttonSystemToPing.png" />
+    <text
+       inkscape:export-ydpi="33.604443"
+       inkscape:export-xdpi="33.604443"
+       sodipodi:linespacing="89.999998%"
+       id="text16015"
+       y="427.28775"
+       x="201.54077"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.41923332px;line-height:89.99999762%;font-family:Audiowide;-inkscape-font-specification:'Audiowide, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="427.28775"
+         x="201.54077"
+         id="tspan16017"
+         sodipodi:role="line">System to</tspan><tspan
+         id="tspan16019"
+         y="455.56506"
+         x="201.54077"
+         sodipodi:role="line">Ping</tspan></text>
+    <rect
+       inkscape:export-ydpi="46.030582"
+       inkscape:export-xdpi="46.030582"
+       y="623.21985"
+       x="65.659912"
+       height="59.598999"
+       width="271.73105"
+       id="rect16021"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#cf0000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       inkscape:export-filename="/home/yann/ownCloud/PySDL2-0.9.4/examples/resources/buttonShutDown.png" />
+    <text
+       inkscape:export-ydpi="33.604443"
+       inkscape:export-xdpi="33.604443"
+       sodipodi:linespacing="89.999998%"
+       id="text16023"
+       y="668.13977"
+       x="201.6434"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.26874924px;line-height:89.99999762%;font-family:Audiowide;-inkscape-font-specification:'Audiowide, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="668.13977"
+         x="201.6434"
+         id="tspan16025"
+         sodipodi:role="line">ShutDown</tspan></text>
+  </g>
+</svg>
